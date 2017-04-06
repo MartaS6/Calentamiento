@@ -1,2 +1,0 @@
-# Calentamiento
-Practica RO
